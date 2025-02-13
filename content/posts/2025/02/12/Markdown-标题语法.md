@@ -3,7 +3,7 @@ title: Markdown-标题语法 | 技术分享
 description: 记录 Markdown 语法的标题语法,方便学习和查找。Markdown 标题语法提供两种写法:1. 使用 1-6 个 `#` 前缀 (如### 标题);2. 用 `===` 定义一级、`---` 定义二级标题。推荐在 `#` 后添加空格保证多平台兼容性。  
 date: 2025-02-12 18:15:25
 updated: 2025-02-12 18:27:25
-image: /image/markdown标题语法.png
+image: /image/Markdown标题语法.png
 categories: [技术分享]
 tags: [教程, markdown]
 recommend: 2

@@ -23,7 +23,7 @@ const blogConfig = {
     tgGroup: 'https://t.me/kemiao_me',
     timeEstablished: '2025-02-11',
     timezone: 'Asia/Shanghai',
-    url: 'https://boke.kmblog.icu/',
+    url: 'https://blog.kemiaofx.top/',
 
     feed: {
         limit: 50,
@@ -57,9 +57,9 @@ const blogConfig = {
     },
 
     twikoo: {
-        js: 'https://source.kmblog.icu/twikoo/twikoo.all.min.js',
-        envId: 'https://twikoo.kmblog.icu/',
-        preload: 'https://twikoo.kmblog.icu/',
+        js: 'https://source.kemiaofx.top/twikoo/twikoo.all.min.js',
+        envId: 'https://twikoo.kemiaofx.top/',
+        preload: 'https://twikoo.kemiaofx.top/',
     },
 }
 
