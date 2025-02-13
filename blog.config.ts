@@ -11,7 +11,7 @@ const blogConfig = {
         name: '克喵爱吃卤面',
         avatar: '/img/touxiang.jpg',
         email: 'kemiao@kmblog.icu',
-        homepage: 'https://github.com/kmfx',
+        homepage: 'https://github.com/Kemeow815',
     },
     copyright: {
         abbr: 'CC BY-NC-SA 4.0',

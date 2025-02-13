@@ -37,7 +37,7 @@ export default defineAppConfig({
         iconNav: <NavItem[]>[
             { icon: 'ph:house-bold', text: '个人主页', url: blogConfig.author.homepage },
             { icon: 'mdi:telegram', text: '频道', url: 'https://t.me/kemiaofx_me' },
-            { icon: 'ph:github-logo-bold', text: 'GitHub: 克喵Kemeow', url: 'https://github.com/kmfx' },
+            { icon: 'ph:github-logo-bold', text: 'GitHub: 克喵Kemeow', url: 'https://github.com/Kemeow815' },
             { icon: 'ph:rss-simple-bold', text: 'Atom订阅', url: '/atom.xml' },
             { icon: 'ph:subway-bold', text: '开往', url: 'https://www.travellings.cn/go-by-clouds.html' },
         ],
@@ -53,7 +53,7 @@ export default defineAppConfig({
             {
                 title: '社交',
                 items: [
-                    { icon: 'ph:github-logo-bold', text: '克喵Kemeow', url: 'https://github.com/kmfx' },
+                    { icon: 'ph:github-logo-bold', text: '克喵Kemeow', url: 'https://github.com/Kemeow815' },
                     { icon: 'mdi:telegram', text: '电报频道', url: 'https://t.me/kemiaofx_me' },
                     { icon: 'ph:envelope-simple-bold', text: blogConfig.author.email, url: `mailto:${blogConfig.author.email}` },
                 ],
