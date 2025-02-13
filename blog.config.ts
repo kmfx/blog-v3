@@ -4,7 +4,7 @@ import { zhCN } from 'date-fns/locale'
 
 // 存储 nuxt.config 和 app.config 共用的配置
 const blogConfig = {
-    title: '克喵爱吃卤面',
+    title: '克喵Kemeow',
     subtitle: '致力于分享资源和生活的博客~',
     description: '克喵的个人博客，分享技资源与生活。“折腾不止，摸鱼生活——摸门🙏🏻”。这个博客记录了我在生活和资源分享中的点滴经历，充满启发与思考。网站界面简洁美观，内容丰富实用，人气互动活跃，涵盖了编程、生活、学习等多个领域，为读者提供了卓越的阅读体验。',
     author: {
